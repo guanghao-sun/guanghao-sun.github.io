@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="http://guo-xiaoqing.github.io/images/guanghao_sun.pdf" target="_blank">View Curriculum Vitae</a>
+<a href="http://guanghao-sun.github.io/images/guanghao_sun.pdf" target="_blank">View Curriculum Vitae</a>

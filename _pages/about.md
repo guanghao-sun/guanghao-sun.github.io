@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## Research Interests
 My research focuses on developing innovative machine learning and computer vision approaches for medical data analysis, aiming to create intelligent systems that enhance clinical decision-making and improve human-machine interactions in areas such as diagnostic assistance and cancer detection.
 

@@ -16,7 +16,7 @@ My research focuses on developing innovative machine learning and computer visio
 * **09/2018-06/2022** Bachelor’s degree in Automation, College of Mechanical and Electronic Engineering, Shandong Agricultural University, Shandong, China
 
 ## Research Experience
-* **04/2022-now** Research Assistant, Center for Artificial Intelligence in Medical Imaging, (CAIMI), Beijing University of Posts and Telecommunications, Beijing, China (Supervisor: Dr. <a href="https://ibme.ox.ac.uk/people/alison-noble/" target="_blank">Rui Hou</a>, Prof. <a href="https://ibme.ox.ac.uk/people/alison-noble/" target="_blank">Yong liu</a>)
+* **04/2022-now** Research Assistant, Center for Artificial Intelligence in Medical Imaging, (CAIMI),  Beijing, China (Supervisor: Dr. <a href="https://ibme.ox.ac.uk/people/alison-noble/" target="_blank">Rui Hou</a>, Prof. <a href="https://ibme.ox.ac.uk/people/alison-noble/" target="_blank">Yong liu</a>)
 * **09/2022-12/2022** Research Assistant, Department of Electrical Engineering, Duke University, Durham, USA (Supervisor: Prof. <a href="http://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm" target="_blank">Yixuan Yuan</a>)
   
 <!-- ## Biography

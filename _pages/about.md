@@ -12,7 +12,7 @@ My research focuses on developing innovative machine learning and computer visio
 
 ## Research Experience
 * **04/2022-now** Research Assistant, Center for Artificial Intelligence in Medical Imaging, (CAIMI),  Beijing, China (Supervisor: Dr. <a href="https://ibme.ox.ac.uk/people/alison-noble/" target="_blank">Rui Hou</a>, Prof. <a href="https://ibme.ox.ac.uk/people/alison-noble/" target="_blank">Yong liu</a>)
-* **09/2022-12/2022** Research Assistant, Department of Electrical Engineering, Duke University, Durham, USA (Supervisor: Dr. <a href="https://scholar.google.com/citations?hl=en&user=9EDP3bEAAAAJ" target="_blank">Rui Hou</a>)
+* **04/2022-04/2023** Research Assistant, Department of Electrical Engineering, Duke University, Durham, USA (Supervisor: Dr. <a href="https://scholar.google.com/citations?hl=en&user=9EDP3bEAAAAJ" target="_blank">Rui Hou</a>)
 
 ## Education Experience
 * **09/2022-06/2025** Master’s degree in Mechanical Engineering, College of Mechanical and Electronic Engineering, Shandong Agricultural University, Shandong, China (Supervisor: Prof. <a href="https://jdxy.sdau.edu.cn/2019/1108/c10574a161359/page.htm" target="_blank">Jialin Hou</a>, Dr. Rui Hou, Prof. <a href="https://teacher.bupt.edu.cn/yongliu/zh_CN/index.htm" target="_blank">Yong Liu</a>)

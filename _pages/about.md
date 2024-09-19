@@ -11,7 +11,7 @@ redirect_from:
 My research focuses on developing innovative machine learning and computer vision approaches for medical data analysis, aiming to create intelligent systems that enhance clinical decision-making and improve human-machine interactions in areas such as diagnostic assistance and cancer detection.
 
 ## Research Experience
-* **04/2022-now** Research Assistant, Center for Artificial Intelligence in Medical Imaging, (CAIMI),  Beijing, China (Supervisor: Dr. <a href="https://ibme.ox.ac.uk/people/alison-noble/" target="_blank">Rui Hou</a>, Prof. <a href="https://ibme.ox.ac.uk/people/alison-noble/" target="_blank">Yong liu</a>)
+* **04/2022-now** Research Assistant, Center for Artificial Intelligence in Medical Imaging, (CAIMI),  Beijing, China (Supervisor: Prof. <a href="https://teacher.bupt.edu.cn/yongliu/zh_CN/index.htm" target="_blank">Yong liu</a>, Dr. <a href="https://ibme.ox.ac.uk/people/alison-noble/" target="_blank">Rui Hou</a>)
 * **04/2022-04/2023** Research Assistant, Department of Electrical Engineering, Duke University, Durham, USA (Supervisor: Dr. <a href="https://scholar.google.com/citations?hl=en&user=9EDP3bEAAAAJ" target="_blank">Rui Hou</a>)
 
 ## Education Experience
